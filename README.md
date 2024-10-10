@@ -38,7 +38,7 @@ Remote PC is a project that allows users to access and control other computers r
 Contributions are greatly appreciated! If you would like to help improve this project, please fork this repository and submit a pull request.  
 
 **Contact**  
-If you have any questions or issues, please contact me at [your email address].  
+If you have any questions or issues, please contact me at nur.muchsn@gmail.com 
 
 --- 
 
